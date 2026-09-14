@@ -1,20 +1,20 @@
 76 Kacst Farsi | https://raw.githubusercontent.com/popking159/ArabicSavior/main/online_fonts/76KacstFarsi.ttf
 Adobe Arabic Shin | https://raw.githubusercontent.com/popking159/ArabicSavior/main/online_fonts/Adobe-arabic-shin.ttf
-Arabic UIDDisplay Bold | https://raw.githubusercontent.com/popking159/ArabicSavior/main/online_fonts/Arabic%20UIDDisplay%20Bold.otf
-Arabic UIDDisplay | https://raw.githubusercontent.com/popking159/ArabicSavior/main/online_fonts/Arabic%20UIDDisplay.otf
+Arabic UIDDisplay | https://raw.githubusercontent.com/popking159/ArabicSavior/main/online_fonts/ArabicUIDDisplay.otf
+Arabic UIDDisplay Bold | https://raw.githubusercontent.com/popking159/ArabicSavior/main/online_fonts/ArabicUIDDisplayBold.otf
 Aref Menna Light | https://raw.githubusercontent.com/popking159/ArabicSavior/main/online_fonts/Aref_Menna-Light.ttf
-Droid Arabic Naskh | https://raw.githubusercontent.com/popking159/ArabicSavior/main/online_fonts/Droid%20Arabic%20Naskh.otf
+Droid Arabic Naskh | https://raw.githubusercontent.com/popking159/ArabicSavior/main/online_fonts/DroidArabicNaskh.otf
 Greta Arabic Bold Italic | https://raw.githubusercontent.com/popking159/ArabicSavior/main/online_fonts/GretaArabicBoldItalic.ttf
 Kacst Title | https://raw.githubusercontent.com/popking159/ArabicSavior/main/online_fonts/KacstTitle.ttf
 Khalid Art Bold | https://raw.githubusercontent.com/popking159/ArabicSavior/main/online_fonts/Khalid-Art-bold.ttf
 Omar Light | https://raw.githubusercontent.com/popking159/ArabicSavior/main/online_fonts/Omar-Light.ttf
-R Slm Tv | https://raw.githubusercontent.com/popking159/ArabicSavior/main/online_fonts/R%20Slm%20Tv.otf
-Sahel Bold | https://raw.githubusercontent.com/popking159/ArabicSavior/main/online_fonts/Sahel%20Bold.otf
+R Slm Tv | https://raw.githubusercontent.com/popking159/ArabicSavior/main/online_fonts/RSlmTv.otf
 Sahel | https://raw.githubusercontent.com/popking159/ArabicSavior/main/online_fonts/Sahel.otf
+Sahel Bold | https://raw.githubusercontent.com/popking159/ArabicSavior/main/online_fonts/SahelBold.otf
 Tharwat Emara Ruqaa | https://raw.githubusercontent.com/popking159/ArabicSavior/main/online_fonts/THARWATEMARARUQAA.ttf
 VIP Rawy Bold | https://raw.githubusercontent.com/popking159/ArabicSavior/main/online_fonts/VIP-Rawy-Bold.ttf
-XB Zar Bold | https://raw.githubusercontent.com/popking159/ArabicSavior/main/online_fonts/XB%20Zar%20Bold.otf
-XB Zar | https://raw.githubusercontent.com/popking159/ArabicSavior/main/online_fonts/XB%20Zar.otf
+XB Zar | https://raw.githubusercontent.com/popking159/ArabicSavior/main/online_fonts/XBZar.otf
+XB Zar Bold | https://raw.githubusercontent.com/popking159/ArabicSavior/main/online_fonts/XBZarBold.otf
 Adoody | https://raw.githubusercontent.com/popking159/ArabicSavior/main/online_fonts/adoody.ttf
 Cocon Next Arabic Light | https://raw.githubusercontent.com/popking159/ArabicSavior/main/online_fonts/coconnextarabic-light.ttf
 Font Default | https://raw.githubusercontent.com/popking159/ArabicSavior/main/online_fonts/font_default.otf
