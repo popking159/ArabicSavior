@@ -1,4 +1,5 @@
 76 Kacst Farsi | https://raw.githubusercontent.com/popking159/ArabicSavior/main/online_fonts/76KacstFarsi.ttf
+OSN | https://raw.githubusercontent.com/popking159/ArabicSavior/main/online_fonts/OSN.ttf
 Adobe Arabic Shin | https://raw.githubusercontent.com/popking159/ArabicSavior/main/online_fonts/Adobe-arabic-shin.ttf
 Arabic UIDDisplay | https://raw.githubusercontent.com/popking159/ArabicSavior/main/online_fonts/ArabicUIDDisplay.otf
 Arabic UIDDisplay Bold | https://raw.githubusercontent.com/popking159/ArabicSavior/main/online_fonts/ArabicUIDDisplayBold.otf
