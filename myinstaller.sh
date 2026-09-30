@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# wget -qO - https://raw.githubusercontent.com/popking159/ArabicSavior/refs/heads/main/myinstaller.sh -O - | /bin/sh
 ######### Only These two lines to edit with new version #####
 version=2.8
 #############################################################
