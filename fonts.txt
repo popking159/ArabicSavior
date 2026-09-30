@@ -20,6 +20,6 @@ Adoody | https://raw.githubusercontent.com/popking159/ArabicSavior/main/online_f
 Cocon Next Arabic Light | https://raw.githubusercontent.com/popking159/ArabicSavior/main/online_fonts/coconnextarabic-light.ttf
 Font Default | https://raw.githubusercontent.com/popking159/ArabicSavior/main/online_fonts/font_default.otf
 Nmsbd | https://raw.githubusercontent.com/popking159/ArabicSavior/main/online_fonts/nmsbd.ttf
-Nmsbd | https://raw.githubusercontent.com/popking159/ArabicSavior/main/online_fonts/almarai.ttf
-Nmsbd | https://raw.githubusercontent.com/popking159/ArabicSavior/main/online_fonts/jf_flat_regular.ttf
-Nmsbd | https://raw.githubusercontent.com/popking159/ArabicSavior/main/online_fonts/neo_sans_arabic.ttf
+Almarai | https://raw.githubusercontent.com/popking159/ArabicSavior/main/online_fonts/almarai.ttf
+JF Flat Regular | https://raw.githubusercontent.com/popking159/ArabicSavior/main/online_fonts/jf_flat_regular.ttf
+Neo Sans Arabic | https://raw.githubusercontent.com/popking159/ArabicSavior/main/online_fonts/neo_sans_arabic.ttf
