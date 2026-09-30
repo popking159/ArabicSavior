@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ######### Only These two lines to edit with new version #####
-version=2.7
+version=2.8
 #############################################################
 PLUGINPATH='/usr/lib/enigma2/python/Plugins/Extensions/ArabicSavior'
 
