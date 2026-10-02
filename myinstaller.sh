@@ -2,7 +2,7 @@
 
 # wget -qO - https://raw.githubusercontent.com/popking159/ArabicSavior/refs/heads/main/myinstaller.sh -O - | /bin/sh
 ######### Only These two lines to edit with new version #####
-version=2.8
+version=2.9
 #############################################################
 PLUGINPATH='/usr/lib/enigma2/python/Plugins/Extensions/ArabicSavior'
 
